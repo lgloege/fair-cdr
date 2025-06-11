@@ -1,6 +1,20 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,macos
 
+### data ###
+data/calibration/README.md
+data/calibration/data/
+data/calibration/defaults.mplstyle
+data/calibration/environment.yml
+data/calibration/input/
+data/calibration/output/
+data/calibration/plots/
+data/calibration/r_scripts/
+data/calibration/run
+data/calibration/setup.cfg
+data/calibration/ziplist.txt
+
+
 ### macOS ###
 # General
 .DS_Store
